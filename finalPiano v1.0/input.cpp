@@ -1,7 +1,7 @@
 /*
 Audio play by Kevin Forshee 11/2
 update: had to change from array to indevidual switch case bc of syntax TEXT
-input by : 
+all input contrabution by : Trevor 
 
 */
 
